@@ -1,4 +1,4 @@
-# Labirin Generator
+# Generator Labirin
 
 Program ini menghasilkan labirin secara acak, dan menggambarnya menggunakan pustaka **Matplotlib** di Python. Labirin yang dihasilkan berupa matriks 2D yang kemudian divisualisasikan dengan menandai titik masuk dan keluar.
 
